@@ -1,0 +1,26 @@
+.mainblock{
+
+    display:block;
+    position:relative;
+    padding:10px;
+    
+}
+.fieldblock{
+    display:block;
+    position:relative;
+    padding:10px;
+
+}
+input{
+  margin:10px;
+}
+.parent{
+  display:absolute;
+  width:100%;
+
+  display: flex;
+      align-items: center;
+      align-content: center;
+      justify-content: center;
+
+}
