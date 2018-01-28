@@ -3,6 +3,7 @@
 one-page site processes binary search in uploaded file
 
 Arguments: filename, key
+
 Result:
  - if found: value corresponding to the key;
  - if not found: undef.
